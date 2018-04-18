@@ -1,0 +1,15 @@
+Mobile Portfolio 
+	Ionic Framework Application
+	
+	
+	Page Navigation Structure:
+		Home (Catalyst Portfolio) tab ---->	Settings (tab)
+										|
+										-->	Search (tab)->
+										|				 |
+										------------->	List ---->	Details
+														|		|
+														<--------
+													
+													
+	
